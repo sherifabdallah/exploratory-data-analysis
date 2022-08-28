@@ -1,9 +1,7 @@
 # EDA
 
-# Egyflix
-Egyflix is a free streaming service that allows our members to watch TV shows and movies, You can also download TV shows and movies to your iOS, Android, Windows 10, Macos or Linux and watch.
+Analyze a dataset containing the prices and other attributes of almost 54,000 diamonds with ploting and mathmatical equations
 
-   
 
 ## Table of Content
 - [EDA](#eda)
