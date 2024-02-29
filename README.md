@@ -1,10 +1,10 @@
-# EDA
+# exploratory-data-analysis
 
 Analyze a dataset containing the prices and other attributes of almost 54,000 diamonds with ploting and mathmatical equations
 
 
 ## Table of Content
-- [EDA](#eda)
+- [exploratory-data-analysis](#exploratory-data-analysis)
   * [Tools](#tools)
   * [How to run](#how-to-run)
   * [Author](#author)
@@ -52,4 +52,4 @@ session operates in a virtual environment set up by `virtualenv`.
 * And navigate to `http://127.0.0.1:8888`.
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
